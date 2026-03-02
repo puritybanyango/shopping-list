@@ -1,0 +1,7 @@
+knives 
+spoons
+pans
+jugs
+cups
+dishes
+plates
