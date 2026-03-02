@@ -1,8 +1,7 @@
-powder soap
-bar soap
-liquid soap
-sponges
-steel wool
-brush
-gloves
-vim powder
+knives 
+spoons
+pans
+jugs
+cups
+dishes
+plates
